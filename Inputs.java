@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Inputs {
 
     public static void main(String[] args){
-        Scanner input = new Scanner(System.in);
+        Scanner in = new Scanner(System.in);
 /* 
         //Inputs in Integers
         System.out.println("Enter your roll no ");
@@ -21,7 +21,7 @@ public class Inputs {
 
     //Inputs in Float
 */
-    float marks = input.nextFloat();
+    float marks = in.nextFloat();
     System.out.println(marks);
 }
 }
