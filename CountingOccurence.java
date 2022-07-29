@@ -1,4 +1,5 @@
 public class CountingOccurence {
+    // Find how many the given number is occur
     
     public static void main(String[] args){
         int n = 4556785;
