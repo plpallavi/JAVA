@@ -1,5 +1,5 @@
 // WAP to reverse the number
-import java.util.Scanner;
+
 public class ReverseProgram {
     public static void main (String ags[]){
         int num = 2486359;
@@ -10,7 +10,7 @@ public class ReverseProgram {
             int rem = num % 10;
             num /= 10;
 
-            ans = ans + 10 + rem;
+            ans = ans * 10 + rem;
         }
         System.out.println(ans);
 
