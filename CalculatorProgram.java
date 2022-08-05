@@ -1,8 +1,9 @@
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class CalculatorProgram {
     
     public static void main(String args[]){
-        Scanner in = new Scanner(System.in);
+        // Scanner in = new Scanner(System.in);
+        System.out.println("Hello");
     }
 }
