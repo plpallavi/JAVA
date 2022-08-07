@@ -21,7 +21,7 @@ public class CalculatorProgram {
                 int num1 = in.nextInt();
                 int num2 = in.nextInt();
 
-
+                /* 
                 if(op == '+'){
                     ans = num1 + num2;
                 }
@@ -49,6 +49,7 @@ public class CalculatorProgram {
             else{
                 System.out.println("Invalid operator!!!");
             }
+            */
             System.out.print("Answer is: ");
             System.out.println(ans);
                 }
