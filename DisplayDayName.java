@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// WAP to diapay the day number 
 public class DisplayDayName {
     public static void main(String[] args){
         System.out.println("Enter Day Number: ");
