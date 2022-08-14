@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class StringReturn {
-    
+    /* 
     public static void main(String args[]){
         String message = greet();
         System.out.println(message);
@@ -11,7 +11,7 @@ public class StringReturn {
         String name = input.next();
 
         String personalised = myGreet(name);
-//      String personalised = myGreet("Pallavi Kumari");
+        String personalised = myGreet("Pallavi Kumari");
         System.out.println(personalised);
     }
 
@@ -23,5 +23,7 @@ public class StringReturn {
 static String greet(){
     String greeting = "Hii!!!!, Good Evening";
     return greeting;
+    
 }
+*/
 }
