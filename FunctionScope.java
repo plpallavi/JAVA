@@ -4,12 +4,12 @@ public class FunctionScope {
         int b = 15;
 
         System.out.println(a); // it is accessiable coz num is in the same function
-
+        random();
     }
 
-    static void random(int num){
+    static void random(){
     //    System.out.ptintln(a); // can't accessed the a becoz a is in the another function
-    num = 189;
+    int num = 189;
     System.out.println(num); // it is accessiable coz num is in the same function
     }
 
