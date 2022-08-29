@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 public class DynamicArrays {
-    // Arrays having no fixed size of coloumn and row
+    // Arrays having no fixed size of coloumn and row is known as Dynamic Arrays
     public static void main(String args[]) {
         int[][] arr = {
                 { 1, 2, 3, 4 },
