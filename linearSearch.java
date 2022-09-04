@@ -20,8 +20,8 @@ public class linearSearch {
             // Check for element at every index
             int element = arr[index];
             if (element == target) {
-                // return index; // returns index of an elemesnt
-                return element; // return elemnts itself
+                return index; // returns index of an elemesnt
+                // return element; // return elemnts itself
 
             }
         }
