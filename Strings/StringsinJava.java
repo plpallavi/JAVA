@@ -3,5 +3,10 @@ public class StringsinJava {
         String name = "Pallavi Kumari";
         System.out.println(name);
 
+        String a = "Pallavi";
+        System.out.println(a);
+        a = "Kumari"; // here we are not chnging the object... we are creating the new object...
+        System.out.println(a);
+
     }
 }
