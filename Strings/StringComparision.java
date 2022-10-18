@@ -17,6 +17,10 @@ public class StringComparision {
         // .equals ---> methods
 
         System.out.println(name1.equals(name2));
+
+        // Accessing the index number
+
+        System.out.println(name1.charAt(1));
     }
 
 }
